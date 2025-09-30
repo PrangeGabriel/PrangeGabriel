@@ -32,12 +32,13 @@ Trabalho com dados porque gosto de encontrar respostas onde a maioria só vê n�
 
 
 ## 📈 Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrangeGabriel&show_icons=true&theme=default)](https://github.com/PrangeGabriel)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PrangeGabriel&layout=compact&theme=default)](https://github.com/PrangeGabriel)
-
-## 📮 Fala comigo
-
-- **Email:** prange.gabriel@gmail.com 
-
 ---
