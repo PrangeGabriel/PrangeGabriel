@@ -30,6 +30,10 @@ Trabalho com dados porque gosto de encontrar respostas onde a maioria só vê n�
 
 **Tecnologias:** Python, BeautifulSoup/Selenium, Pandas, Streamlit, PostgreSQL, Scikit-learn, API OpenAI/Gemini, Plotly
 
+## Portfólio de Experiências
+
+![Acesse aqui](https://github.com/PrangeGabriel/images)
+
 
 ## 📈 Stats
 
